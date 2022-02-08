@@ -2,8 +2,7 @@
 This is for the paper "A Proposal for Finite But Unbounded Human Lifetimes" coauthored by 
 Fei Huang, Ross Maller, Brandon Milholland, Xu Ning
 
-Code Availability
-
+## Code Availability
 Code used in analysing the data and constructing the figures and tables are provided. 
 “Figure1_Lifetime densities.m” – Figure 1
 “acceleration females.R” and “acceleration males.R” – Tables 1, 2, 3.
@@ -15,13 +14,12 @@ Code used in analysing the data and constructing the figures and tables are prov
 “Figure 6_Centenarians analysis_IDL.m” – Figure 6
 Tables 4 and 5 are generated using the STLT package published in GitHub and available at https://github.com/u5838836/STLT based on the Australian data obtained from the Human Mortality Database (https://www.mortality.org/). 
 
-Data Availability 
-
+## Data Availability 
 The data used in this paper are all publicly available. The Netherlands data is obtained from the online data source provided at the Harvard Dataverse:
 https://dataverse.harvard.edu/dataset.xhtml;jsessionid=03089ba5284b6e75dd132b6a14fd?persistentId=doi%3A10.7910%2FDVN%2FRNZA5D&version=&q=&fileTypeGroupFacet=&fileAccess=&fileSortField=type 
 and the Human Mortality Database (HMD, https://www.mortality.org/). We extracted the 1x1 cohort life tables and exposures-to-risk for males and females of Netherlands separately from the HMD. For the data combination and quality check of the augmented Netherlands data used in this paper, please refer to Section 3 in Huang et al. (2020).  The Australian data is also obtained from HMD, please refer to Section 2 in Fu et al. (2021) for more details of the data.  The England and Wales supercentenarians data is obtained from the International Database on Longevity (https://www.supercentenarians.org/). 
 
-References:
+## References:
 F. Huang, R. Maller, X. Ning, Modelling life tables with advanced ages: An extreme value theory approach, Insurance: Mathematics and Economics 93, 95–115 (2020).
 
 B. Fu, F. Huang, R. Maller, Modelling Australian Life Tables with Advanced Ages – A Report Prepared for the Australian Government Actuary. Available at SSRN: http://dx.doi.org/10.2139/ssrn.4020309  (2021)
