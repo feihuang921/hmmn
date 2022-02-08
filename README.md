@@ -1,5 +1,5 @@
 # hmmn
-This is for the paper "A Proposal for Finite But Unbounded Human Lifetimes" coauthored by 
+Codes and data for the paper "A Proposal for Finite But Unbounded Human Lifetimes" coauthored by 
 Fei Huang, Ross Maller, Brandon Milholland, Xu Ning
 
 ## Code Availability
