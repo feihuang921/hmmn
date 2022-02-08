@@ -30,7 +30,6 @@ The data used in this paper are all publicly available. The Netherlands data is 
 F. Huang, R. Maller, X. Ning, Modelling life tables with advanced ages: An extreme value theory approach, Insurance: Mathematics and Economics 93, 95–115 (2020).
 
 B. Fu, F. Huang, R. Maller, Modelling Australian Life Tables with Advanced Ages – A Report Prepared for the Australian Government Actuary. Available at SSRN: http://dx.doi.org/10.2139/ssrn.4020309  (2021)
-![image](https://user-images.githubusercontent.com/55334706/152978406-0db6c97b-4fb2-4038-9de2-4f006da79774.png)
 
 J. Einmahl, Replication Data for: Limits to human life span through extreme value theory, https://doi.org/10.7910/DVN/RNZA5D, Harvard Dataverse, V1, UNF:6:hY4ZMepNlEF7lzYY1QJ98g== [fileUNF] (2018)
 
