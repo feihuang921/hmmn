@@ -5,8 +5,6 @@ Fei Huang, Ross Maller, Brandon Milholland, Xu Ning
 ## Code Availability
 Code used in analysing the data and constructing the figures and tables are provided. 
 
-“Figure1_Lifetime densities.m” – Figure 1
-
 “acceleration females.R” and “acceleration males.R” – Tables 1, 2, 3.
 
 “combined cohorts CDF.R” – Figure 2, Figure 4
@@ -14,6 +12,8 @@ Code used in analysing the data and constructing the figures and tables are prov
 “alive deduction.R” – Table 6 (this script is to generate the numbers of alive population at threshold age for females and males “F_N_pop” and “M_N_pop” for “Table6_expected and CI.m”) 
 
 “Table 6_expected and CI.m” – Table 6
+
+“Figure1_Lifetime densities.m” – Figure 1
 
 “Figure3_CIplots.m”-- Figure 3
 
